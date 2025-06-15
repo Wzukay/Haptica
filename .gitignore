@@ -1,0 +1,64 @@
+# Unity-generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Visual Studio / JetBrains Rider
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Unity Collab
+.collab/
+
+# Crash Reports
+sysinfo.txt
+
+# Auto-generated meta files (only if not using forceText)
+*.pidb.meta
+*.pdb.meta
+
+# Unity Cloud Build
+*.apk
+*.aab
+*.unitypackage
+
+# Builds
+*.exe
+*.app
+*.apk
+*.xcodeproj/
+*.xcworkspace/
+
+# Rider project files
+.idea/
+*.sln.iml
+
+# Unity Shader cache
+*.shadercache
+*.giparams
+
+# Others
+*.orig
